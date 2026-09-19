@@ -33,19 +33,11 @@ Spotify dataset containing songs from 1980 onward.
 
 ## Exploratory Data Analysis
 
-[plots]
+![Audio Feature Correlations](images/audio_feature_correlations.png)
 
 ## Recommendation Results
 
-[Top-10 graph]
-
-## Evaluation
-
-[leave-one-out results]
-
-## Limitations
-
-...
+![Top 10 Recommendations](images/top_recommendationd.png)
 
 ## Technologies
 
